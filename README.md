@@ -47,62 +47,78 @@ Disfruten el curso
 * Cualquier diseñador que use VSCode
 * Cualquier persona que quiera editar código en esta herramienta
 
-## Contenido del curso                                                                                           46 clases 01:42:21
+## Contenido del curso                                                                                             46 clases 01:42:21
 
-## Introducción                                                                                                               09:16
-* Introducción                                                                                                                00:57
-* ¿Cómo funcionará el curso?                                                                                                  02:31
-* Instalaciones necesarias y configuración                                                                                    03:07
-* Descarga del proyecto                                                                                                       02:41
+## Introducción                                                                                                                 09:16
 
-## Ediciones y tips básicos                                                                                                   25:29
-* Introducción a la sección                                                                                                   01:01
-* Atajos del teclado                                                                                                          00:28
-* Movimiento de líneas - Primera parte                                                                                        02:22
-* Movimiento de líneas - Segunda parte                                                                                        01:55
-* Comentar código                                                                                                             01:15
-* Comentar código y partes del código                                                                                         01:43
-* Creación rápida de archivos                                                                                                 01:33
-* Ir a la definición                                                                                                          02:17
-* Borrar líneas                                                                                                               02:04
-* Deshacer y Rehacer                                                                                                          01:09
-* Zen mode                                                                                                                    01:59
-* Terminal integrada                                                                                                          02:30
-* Emmet wrap y atajos personalizados                                                                                          03:51
-* Manejo de tabs                                                                                                              01:22
+### Introducción                                                                                                                00:57
 
-## Multi Cursores y edición rápida                                                                                            23:13
-* Introducción a la sección                                                                                                   01:18
-* Clonar líneas - Copy line down                                                                                              02:14
-* Crear cursores arriba y abajo de la posición actual                                                                         02:22
-* Multi cursor - Copy                                                                                                         02:38
-* Multi cursor para formato                                                                                                   01:32
-* Multi cursor - Lowercase y Uppercase                                                                                        03:10
-* Múltiples cursores en posiciones específicas                                                                                04:05
-* Siguiente ocurrencia                                                                                                        02:12
-* Creación de un arreglo de días                                                                                              03:42
+### ¿Cómo funcionará el curso?                                                                                                  02:31
 
-## Definiciones y Snippets                                                                                                    21:58
-* Introducción a la sección                                                                                                   01:19
-* Definiciones en un archivo                                                                                                  02:04
-* Ir a una línea                                                                                                              01:36
-* Markdown view - live-preview                                                                                                03:31
-* Replace Symbol                                                                                                              03:38
-* Snippets básicos                                                                                                            08:17
-* Snippet personalizado - tarea                                                                                               01:33
+### Instalaciones necesarias y configuración                                                                                    03:07
 
-## Extensiones                                                                                                                20:22
-* Introducción a la sección                                                                                                   01:06
-* Paste JSON as Code                                                                                                          02:42
-* TODO Tree - TODO Highlight                                                                                                  05:05
-* Bookmarks                                                                                                                   01:39
-* Material Icon Theme                                                                                                         01:04
-* Material Theme                                                                                                              01:26
-* Live Server                                                                                                                 02:08
-* Color Highlight                                                                                                             01:19
-* Bracket Pair Colorizer 2                                                                                                    03:53
+Instalar [Visual Studio Code](https://code.visualstudio.com/)
 
-## Cierre del curso                                                                                                           02:12
-* Todas mis extensiones hasta el momento                                                                                      00:11
-* Más sobre mis cursos                                                                                                        00:33
-* Fin del curso                                                                                                               01:27
+[Repositorio Ejemplo](https://github.com/Klerith/curso-VSCode)
+
+Características de VSC:
+
+* IntelliSense: Vaya más allá del resaltado de sintaxis y complete automáticamente con IntelliSense, que proporciona terminaciones inteligentes basadas en tipos de variables, definiciones de funciones y módulos importados.
+* Debugging: Código de depuración directamente desde el editor. Inicie o adjunte a sus aplicaciones en ejecución y depure con puntos de interrupción, pilas de llamadas y una consola interactiva.
+* Built-in Git: Trabajar con Git y otros proveedores de SCM nunca ha sido tan fácil. Revise los archivos diff, organice y realice confirmaciones directamente desde el editor. Empuje y tire de cualquier servicio SCM alojado.
+* Extensions: ¿Quieres aún más funciones? Instale extensiones para agregar nuevos idiomas, temas, depuradores y para conectarse a servicios adicionales. Las extensiones se ejecutan en procesos separados, lo que garantiza que no ralentizarán su editor.
+
+
+### Descarga del proyecto                                                                                                       02:41
+
+## Ediciones y tips básicos                                                                                                     25:29
+### Introducción a la sección                                                                                                   01:01
+### Atajos del teclado                                                                                                          00:28
+### Movimiento de líneas - Primera parte                                                                                        02:22
+### Movimiento de líneas - Segunda parte                                                                                        01:55
+### Comentar código                                                                                                             01:15
+### Comentar código y partes del código                                                                                         01:43
+### Creación rápida de archivos                                                                                                 01:33
+### Ir a la definición                                                                                                          02:17
+### Borrar líneas                                                                                                               02:04
+### Deshacer y Rehacer                                                                                                          01:09
+### Zen mode                                                                                                                    01:59
+### Terminal integrada                                                                                                          02:30
+### Emmet wrap y atajos personalizados                                                                                          03:51
+### Manejo de tabs                                                                                                              01:22
+
+## Multi Cursores y edición rápida                                                                                              23:13
+### Introducción a la sección                                                                                                   01:18
+### Clonar líneas - Copy line down                                                                                              02:14
+### Crear cursores arriba y abajo de la posición actual                                                                         02:22
+### Multi cursor - Copy                                                                                                         02:38
+### Multi cursor para formato                                                                                                   01:32
+### Multi cursor - Lowercase y Uppercase                                                                                        03:10
+### Múltiples cursores en posiciones específicas                                                                                04:05
+### Siguiente ocurrencia                                                                                                        02:12
+### Creación de un arreglo de días                                                                                              03:42
+
+## Definiciones y Snippets                                                                                                      21:58
+### Introducción a la sección                                                                                                   01:19
+### Definiciones en un archivo                                                                                                  02:04
+### Ir a una línea                                                                                                              01:36
+### Markdown view - live-preview                                                                                                03:31
+### Replace Symbol                                                                                                              03:38
+### Snippets básicos                                                                                                            08:17
+### Snippet personalizado - tarea                                                                                               01:33
+
+## Extensiones                                                                                                                  20:22
+### Introducción a la sección                                                                                                   01:06
+### Paste JSON as Code                                                                                                          02:42
+### TODO Tree - TODO Highlight                                                                                                  05:05
+### Bookmarks                                                                                                                   01:39
+### Material Icon Theme                                                                                                         01:04
+### Material Theme                                                                                                              01:26
+### Live Server                                                                                                                 02:08
+### Color Highlight                                                                                                             01:19
+### Bracket Pair Colorizer 2                                                                                                    03:53
+
+## Cierre del curso                                                                                                             02:12
+### Todas mis extensiones hasta el momento                                                                                      00:11
+### Más sobre mis cursos                                                                                                        00:33
+### Fin del curso                                                                                                               01:27
