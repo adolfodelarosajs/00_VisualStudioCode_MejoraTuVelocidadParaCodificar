@@ -115,14 +115,53 @@ En las próximas clases vamos a usar muchos atajos y aprender trucos para increm
 
 Adicionalmente, empezaré brindándoles más información sobre trucos y tips de Visual Studio Code Oficial
 
-Recursos de esta clase
+Recursos de esta clase:
 
 [keyboard-shortcuts-linux.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-linux.pdf)
+
 [keyboard-shortcuts-macos.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-macos.pdf)
+
 [keyboard-shortcuts-windows.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-windows.pdf)
 
 
 ### Movimiento de líneas - Primera parte                                                                                        02:22
+
+Abrir el archivo ´01-movimientos.html´
+
+´´´
+<!-- 
+    Objetivo:
+        Ordenar las <li>
+    
+    Tips:
+        ⌥ ↓ / ⌥ ↑
+        Alt + ↑ / ↓
+-->
+
+<ul>
+    <li>Línea 7</li>
+    <li>Línea 3</li>
+    <li>Línea 6</li>
+    <li>Línea 2</li>
+    <li>Línea 5</li>
+    <li>Línea 4</li>
+    <li>Línea 1</li>
+</ul>
+
+
+<h1>Objetivo final</h1>
+
+<ul>
+    <li>Línea 1</li>
+    <li>Línea 2</li>
+    <li>Línea 3</li>
+    <li>Línea 4</li>
+    <li>Línea 5</li>
+    <li>Línea 6</li>
+    <li>Línea 7</li>
+</ul>
+´´´
+
 ### Movimiento de líneas - Segunda parte                                                                                        01:55
 ### Comentar código                                                                                                             01:15
 ### Comentar código y partes del código                                                                                         01:43
