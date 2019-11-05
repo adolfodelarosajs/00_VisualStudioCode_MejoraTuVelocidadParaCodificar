@@ -57,9 +57,11 @@ Disfruten el curso
 
 ### Instalaciones necesarias y configuración                                                                                    03:07
 
-Instalar [Visual Studio Code](https://code.visualstudio.com/)
+Es necesario realizar las siguientes intalaciones:
 
-[Repositorio Ejemplo](https://github.com/Klerith/curso-VSCode)
+* Instalar [Visual Studio Code](https://code.visualstudio.com/)
+
+* [Repositorio Ejemplo](https://github.com/Klerith/curso-VSCode) Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
 
 Características de VSC:
 
@@ -67,6 +69,23 @@ Características de VSC:
 * Debugging: Código de depuración directamente desde el editor. Inicie o adjunte a sus aplicaciones en ejecución y depure con puntos de interrupción, pilas de llamadas y una consola interactiva.
 * Built-in Git: Trabajar con Git y otros proveedores de SCM nunca ha sido tan fácil. Revise los archivos diff, organice y realice confirmaciones directamente desde el editor. Empuje y tire de cualquier servicio SCM alojado.
 * Extensions: ¿Quieres aún más funciones? Instale extensiones para agregar nuevos idiomas, temas, depuradores y para conectarse a servicios adicionales. Las extensiones se ejecutan en procesos separados, lo que garantiza que no ralentizarán su editor.
+* Deploy with confidence and ease: Con Microsoft Azure puede implementar y alojar sus sitios React, Angular, Vue, Node, Python (¡y más!), Almacenar y consultar datos basados en documentos, y escalar con computación sin servidor, todo con facilidad, todo desde VS Code .
+
+
+
+También hay varias extensiones bastante útiles que les pueden servir.
+
+Extensiones:
+
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+* [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+* [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 
 ### Descarga del proyecto                                                                                                       02:41
