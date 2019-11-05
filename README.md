@@ -162,9 +162,129 @@ Abrir el archivo `01-movimientos.html`
 ```
 
 ### Movimiento de líneas - Segunda parte                                                                                        01:55
+
+Abrir el archivo `02-movimientos.html`
+
+```
+<!-- 
+    Objetivo:
+        Ordenar las <li>
+    
+    Tips:
+        ⌥ ↓ / ⌥ ↑
+        Alt + ↑ / ↓
+-->
+
+<ul>
+    <li>
+        <span>línea 4</span>
+        <span>Nada importante 4</span>
+    </li>
+    <li>
+        <span>línea 3</span>
+        <span>Nada importante 3</span>
+    </li>
+    <li>
+        <span>línea 2</span>
+        <span>Nada importante 2</span>
+    </li>
+    <li>
+        <span>línea 1</span>
+        <span>Nada importante 1</span>
+    </li>
+</ul>
+
+
+<h1>Objetivo final</h1>
+
+<ul>
+    <li>
+        <span>línea 1</span>
+        <span>Nada importante 1</span>
+    </li>
+    <li>
+        <span>línea 2</span>
+        <span>Nada importante 2</span>
+    </li>
+    <li>
+        <span>línea 3</span>
+        <span>Nada importante 3</span>
+    </li>
+    <li>
+        <span>línea 4</span>
+        <span>Nada importante 4</span>
+    </li>
+</ul>
+```
+
 ### Comentar código                                                                                                             01:15
+
+Abrir el archivo `03-comentarios.ts`
+
+```
+/*
+    Objetivo:
+        Comentar un bloque de código
+
+    Tips:
+        ⌘ /
+        
+        Ctrl + \   ===>    Ctrl+K Ctrl+C / Ctrl+K Ctrl+U
+*/
+
+const a = 10;
+const b = 20;
+const c = { a, b };
+
+
+const a = 30;
+const b = 40;
+const c = { a, b };
+
+
+console.log( a, b, c );
+
+// Resultado final
+// Sólo dejar un bloque comentado
+```
+
 ### Comentar código y partes del código                                                                                         01:43
+
+Abrir el archivo `04-comentarios.html`
+
+```
+<!-- 
+    Objetivo:
+        Comentar HTML
+    
+    Tips:
+        ⌘ /
+        ⇧ ⌥ A
+
+        Ctrl + K Ctrl + C / Ctrl + K Ctrl + U
+        Shift + Alt + A
+        
+        Marcar parte de una línea o poner el cursor en la línea a comentar.
+-->
+<div>
+    <span>Hola</span>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Eum maiores nostrum cum quasi totam.
+    </p>
+</div>
+<h1>Objetivo final</h1>
+<div>
+    <!-- <span>Hola</span> -->
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Eum maiores nostrum <!-- cum quasi totam. -->
+    </p>
+</div>
+```
+
 ### Creación rápida de archivos                                                                                                 01:33
+
 ### Ir a la definición                                                                                                          02:17
 ### Borrar líneas                                                                                                               02:04
 ### Deshacer y Rehacer                                                                                                          01:09
