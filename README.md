@@ -53,7 +53,11 @@ Disfruten el curso
 
 ### Introducción                                                                                                                00:57
 
+:+1:
+
 ### ¿Cómo funcionará el curso?                                                                                                  02:31
+
+:+1:
 
 ### Instalaciones necesarias y configuración                                                                                    03:07
 
@@ -65,40 +69,59 @@ Es necesario realizar las siguientes intalaciones:
 
 Características de VSC:
 
-* IntelliSense: Vaya más allá del resaltado de sintaxis y complete automáticamente con IntelliSense, que proporciona terminaciones inteligentes basadas en tipos de variables, definiciones de funciones y módulos importados.
-* Debugging: Código de depuración directamente desde el editor. Inicie o adjunte a sus aplicaciones en ejecución y depure con puntos de interrupción, pilas de llamadas y una consola interactiva.
-* Built-in Git: Trabajar con Git y otros proveedores de SCM nunca ha sido tan fácil. Revise los archivos diff, organice y realice confirmaciones directamente desde el editor. Empuje y tire de cualquier servicio SCM alojado.
-* Extensions: ¿Quieres aún más funciones? Instale extensiones para agregar nuevos idiomas, temas, depuradores y para conectarse a servicios adicionales. Las extensiones se ejecutan en procesos separados, lo que garantiza que no ralentizarán su editor.
-* Deploy with confidence and ease: Con Microsoft Azure puede implementar y alojar sus sitios React, Angular, Vue, Node, Python (¡y más!), Almacenar y consultar datos basados en documentos, y escalar con computación sin servidor, todo con facilidad, todo desde VS Code .
+* **IntelliSense**: Vaya más allá del resaltado de sintaxis y complete automáticamente con IntelliSense, que proporciona terminaciones inteligentes basadas en tipos de variables, definiciones de funciones y módulos importados.
+* **Debugging**: Código de depuración directamente desde el editor. Inicie o adjunte a sus aplicaciones en ejecución y depure con puntos de interrupción, pilas de llamadas y una consola interactiva.
+* **Built-in Git**: Trabajar con Git y otros proveedores de SCM nunca ha sido tan fácil. Revise los archivos diff, organice y realice confirmaciones directamente desde el editor. Empuje y tire de cualquier servicio SCM alojado.
+* **Extensions**: ¿Quieres aún más funciones? Instale extensiones para agregar nuevos idiomas, temas, depuradores y para conectarse a servicios adicionales. Las extensiones se ejecutan en procesos separados, lo que garantiza que no ralentizarán su editor.
+* **Deploy with confidence and ease**: Con Microsoft Azure puede implementar y alojar sus sitios React, Angular, Vue, Node, Python (¡y más!), Almacenar y consultar datos basados en documentos, y escalar con computación sin servidor, todo con facilidad, todo desde VS Code .
 
 También hay varias extensiones bastante útiles que les pueden servir.
 
 Extensiones:
 
-* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-   Bookmarks le ayuda a navegar en su código, moviéndose entre posiciones importantes de manera fácil y rápida. Ya no es necesario buscar el código. También admite un conjunto de comandos de selección, que le permite seleccionar líneas y regiones marcadas entre líneas.
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-   Esta extensión permite que los brackets(llaves {}) coincidentes se identifiquen con colores. El usuario puede definir cuales tokens machean y qué colores usar.
-* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-   Esta extensión aplica estilos a los colores css/web que se encuentran en su documento.
-* [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-   Inicie un servidor local de desarrollo con función de recarga en vivo para páginas estáticas y dinámicas.
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-   The Material Icon Theme proporciona muchos íconos basados en Material Design para Visual Studio Code.
-* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-   El tema más épico ahora para Visual Studio Code
-* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-   Copie JSON, péguelo como Go, TypeScript, C #, C ++ y más.
-* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-   Resalte TODO, FIXME y otras anotaciones dentro de su código. A veces se olvida de revisar los TODO que ha agregado mientras codifica antes de publicar el código en producción. Así que he estado esperando una extensión durante mucho tiempo que los destaque y me recuerde que hay notas o cosas que aún no se han hecho.
-* [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-   Esta extensión busca rápidamente (usando ripgrep) en su espacio de trabajo etiquetas de comentarios como TODO y FIXME, y las muestra en una vista de árbol en el panel del explorador. Al hacer clic en TODO dentro del árbol, se abrirá el archivo y se colocará el cursor en la línea que contiene TODO.
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) le ayuda a navegar en su código, moviéndose entre posiciones importantes de manera fácil y rápida. Ya no es necesario buscar el código. También admite un conjunto de comandos de selección, que le permite seleccionar líneas y regiones marcadas entre líneas.
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) esta extensión permite que los brackets(llaves {}) coincidentes se identifiquen con colores. El usuario puede definir cuales tokens machean y qué colores usar.
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) esta extensión aplica estilos a los colores css/web que se encuentran en su documento.
+* [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Inicie un servidor local de desarrollo con función de recarga en vivo para páginas estáticas y dinámicas.
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) proporciona muchos íconos basados en Material Design para Visual Studio Code.
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) El tema más épico ahora para Visual Studio Code
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) Copie JSON, péguelo como Go, TypeScript, C #, C ++ y más.
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) resalte TODO, FIXME y otras anotaciones dentro de su código. A veces se olvida de revisar los TODO que ha agregado mientras codifica antes de publicar el código en producción. Así que he estado esperando una extensión durante mucho tiempo que los destaque y me recuerde que hay notas o cosas que aún no se han hecho.
+* [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) esta extensión busca rápidamente (usando ripgrep) en su espacio de trabajo etiquetas de comentarios como TODO y FIXME, y las muestra en una vista de árbol en el panel del explorador. Al hacer clic en TODO dentro del árbol, se abrirá el archivo y se colocará el cursor en la línea que contiene TODO.
 
 ### Descarga del proyecto                                                                                                       02:41
 
+Descargar el [Repositorio de Ejemplo](https://github.com/Klerith/curso-VSCode) y abrirlo en VSC.
+
 ## Ediciones y tips básicos                                                                                                     25:29
+
 ### Introducción a la sección                                                                                                   01:01
+
+:+1:
+
 ### Atajos del teclado                                                                                                          00:28
+
+**Atajos de teclado - Shortcuts**
+
+Antes de comenzar, quiero dejarles estos PDFs oficiales de la documentación de Visual Studio Code, realmente no uso ni la mitad de ellos, pero con que aprendan uno o dos valió la pena.
+
+En las próximas clases vamos a usar muchos atajos y aprender trucos para incrementar la velocidad de trabajo de VSC
+
+[Atajos en Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+[Atajos en Mac OSX](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+[Atajos en Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+
+Adicionalmente, empezaré brindándoles más información sobre trucos y tips de Visual Studio Code Oficial
+
+Recursos de esta clase
+
+[keyboard-shortcuts-linux.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-linux.pdf)
+[keyboard-shortcuts-macos.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-macos.pdf)
+[keyboard-shortcuts-windows.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-windows.pdf)
+
+
 ### Movimiento de líneas - Primera parte                                                                                        02:22
 ### Movimiento de líneas - Segunda parte                                                                                        01:55
 ### Comentar código                                                                                                             01:15
