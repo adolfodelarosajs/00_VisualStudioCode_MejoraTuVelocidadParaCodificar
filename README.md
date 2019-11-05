@@ -123,12 +123,11 @@ Recursos de esta clase:
 
 [keyboard-shortcuts-windows.pdf](https://github.com/adolfodelarosajs/00_VisualStudioCode_MejoraTuVelocidadParaCodificar/blob/master/pdfs/keyboard-shortcuts-windows.pdf)
 
-
 ### Movimiento de líneas - Primera parte                                                                                        02:22
 
-Abrir el archivo ´01-movimientos.html´
+Abrir el archivo `01-movimientos.html`
 
-´´´
+```
 <!-- 
     Objetivo:
         Ordenar las <li>
@@ -160,7 +159,7 @@ Abrir el archivo ´01-movimientos.html´
     <li>Línea 6</li>
     <li>Línea 7</li>
 </ul>
-´´´
+```
 
 ### Movimiento de líneas - Segunda parte                                                                                        01:55
 ### Comentar código                                                                                                             01:15
