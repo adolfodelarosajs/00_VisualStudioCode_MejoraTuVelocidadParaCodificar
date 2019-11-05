@@ -71,22 +71,28 @@ Características de VSC:
 * Extensions: ¿Quieres aún más funciones? Instale extensiones para agregar nuevos idiomas, temas, depuradores y para conectarse a servicios adicionales. Las extensiones se ejecutan en procesos separados, lo que garantiza que no ralentizarán su editor.
 * Deploy with confidence and ease: Con Microsoft Azure puede implementar y alojar sus sitios React, Angular, Vue, Node, Python (¡y más!), Almacenar y consultar datos basados en documentos, y escalar con computación sin servidor, todo con facilidad, todo desde VS Code .
 
-
-
 También hay varias extensiones bastante útiles que les pueden servir.
 
 Extensiones:
 
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+   Bookmarks le ayuda a navegar en su código, moviéndose entre posiciones importantes de manera fácil y rápida. Ya no es necesario buscar el código. También admite un conjunto de comandos de selección, que le permite seleccionar líneas y regiones marcadas entre líneas.
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+   Esta extensión permite que los brackets(llaves {}) coincidentes se identifiquen con colores. El usuario puede definir cuales tokens machean y qué colores usar.
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+   Esta extensión aplica estilos a los colores css/web que se encuentran en su documento.
 * [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+   Inicie un servidor local de desarrollo con función de recarga en vivo para páginas estáticas y dinámicas.
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+   The Material Icon Theme proporciona muchos íconos basados en Material Design para Visual Studio Code.
 * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+   El tema más épico ahora para Visual Studio Code
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+   Copie JSON, péguelo como Go, TypeScript, C #, C ++ y más.
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+   Resalte TODO, FIXME y otras anotaciones dentro de su código. A veces se olvida de revisar los TODO que ha agregado mientras codifica antes de publicar el código en producción. Así que he estado esperando una extensión durante mucho tiempo que los destaque y me recuerde que hay notas o cosas que aún no se han hecho.
 * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-
+   Esta extensión busca rápidamente (usando ripgrep) en su espacio de trabajo etiquetas de comentarios como TODO y FIXME, y las muestra en una vista de árbol en el panel del explorador. Al hacer clic en TODO dentro del árbol, se abrirá el archivo y se colocará el cursor en la línea que contiene TODO.
 
 ### Descarga del proyecto                                                                                                       02:41
 
