@@ -1054,26 +1054,26 @@ Plugins
 Extensión del lenguaje Visual Studio Code para archivos javascript / typecript que usan Angular2.
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) Awesome Flutter Snippets es una colección de fragmentos y accesos directos para las funciones y clases de Flutter de uso común
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Agregue automáticamente la etiqueta de cierre HTML / XML, igual que Visual Studio IDE o Sublime Text
-* [Bookmarks]()
-* [Bootstrap 4, FontAwesome 5]()
-* [Bracket Pair Colorizer 2]()
-* [Color Highlight]()
-* [Dart]()
-* [Flutter]()
-* [Gist]()
-* [HTML CSS Support]()
-* [ionic 4 Snippets]()
-* [JavaScript (ES6)]()
-* [jshint]()
-* [Material Icon Theme]()
-* [Paste JSON as Code]()
-* [Prettier - Code Formatter]()
-* [PWA Tools]()
-* [Terminal]()
-* [TODO Highlight]()
-* [Todo Tree]()
-* [TSLint]()
-* [TypeScript Importer]()
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) Marcar líneas y saltar a ellas
+* [Bootstrap 4, FontAwesome 5](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode) Fragmentos de Bootstrap 4 basados en documentación + Font awesome 4 + Font Awesome 5 Fragmentos gratuitos y profesionales
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) Una extensión personalizable para colorear corchetes a juego 
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Resalta los colores web en tu editor
+* [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) Dart soporte de idioma y depurador para Visual Studio Code.
+* [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) Soporte y depurador de Flutter para Visual Studio Code.
+* [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) Crear, abrir y editar Gists
+* [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) Soporte CSS para documentos HTML
+* [ionic 4 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) Fragmentos de Ionic 4 para VS Code
+* [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) Code snippets para JavaScript en ES6 syntax
+* [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) Integra JSHint dentro de  VSCode. JSHint es un linter para JavaScript
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) Material Design Icons para Visual Studio Code
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) Copy JSON, paste as Go, TypeScript, C#, C++ and more.
+* [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) VS Code plugin for prettier/prettier
+* [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools) PWA Tools
+* [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) Terminal para Visual Studio Code
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) highlight TODOs, FIXMEs, and any keywords, annotations...
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) Show TODO, FIXME, etc. comment tags in a tree view
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) TSLint support for Visual Studio Code
+* [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) Busca automáticamente definiciones de TypeScript en archivos de espacio de trabajo y proporciona todos los símbolos conocidos como elemento de finalización para permitir la finalización del código.
 
 ### Más sobre mis cursos                                                                                                        00:33
 
