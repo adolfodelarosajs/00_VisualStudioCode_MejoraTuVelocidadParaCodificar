@@ -1047,12 +1047,13 @@ Un tema completo, oscuro y minimalista inspirado en Monokai.
 
 Plugins
 * [AB HTML Formatter](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter) Esta herramienta formatea/reindentifica código HTML
-* [Activitus Bar]()
-* [Angular Snippets]()
-* [Angular Language Service]()
-* [Angular2-inline]()
-* [Awesome Flutter Snippets]()
-* [Auto Close Tag]()
+* [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar) Ahorre un poco de espacio recreando los botones de la barra de actividad en la barra de estado
+* [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) 242 fragmentos angulares (TypeScript, Html, material angular, diseño flexible, ngRx, RxJS, PWA y pruebas) actualizados para v8 Beta
+* [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) Editor services para Angular templates
+* [Angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) 
+Extensión del lenguaje Visual Studio Code para archivos javascript / typecript que usan Angular2.
+* [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) Awesome Flutter Snippets es una colección de fragmentos y accesos directos para las funciones y clases de Flutter de uso común
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Agregue automáticamente la etiqueta de cierre HTML / XML, igual que Visual Studio IDE o Sublime Text
 * [Bookmarks]()
 * [Bootstrap 4, FontAwesome 5]()
 * [Bracket Pair Colorizer 2]()
