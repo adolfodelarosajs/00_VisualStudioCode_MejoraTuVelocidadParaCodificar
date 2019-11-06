@@ -285,46 +285,795 @@ Abrir el archivo `04-comentarios.html`
 
 ### Creación rápida de archivos                                                                                                 01:33
 
+Abrir el archivo `05-nuevo-archivo.html`
+
+```
+<!-- 
+    Objetivo
+        Crear carpeta assets
+        Crear carpeta js
+        Crear archivo app.js
+
+    Tips:
+        ⌥ click derecho
+        Ctrl + click derecho
+-->
+
+<script src="assets/js/app.js"></script>
+```
+
 ### Ir a la definición                                                                                                          02:17
+
+Abrir archivo `06-definicion.ts`
+
+```
+/*
+    Objetivo:
+        Ir a la definición de la función saludar rápidamente
+
+    Tips:
+        Ojear definición   ⌥ F12
+        Ir a la definición F12
+
+        Ojear definición   Alt + F12
+        Ir a la definición F12
+*/
+
+import { saludar } from './extra/funciones';
+
+const saludo = saludar( 'Thanos' );
+
+console.log(saludo);
+
+```
+
 ### Borrar líneas                                                                                                               02:04
+
+Abrir archivo `07-borrar-lineas.ts`
+
+```
+/*
+    Objetivo:
+        Comentar un bloque de código
+
+    Tips:
+        ⇧ ⌘ K
+        Ctrl + Shift + K
+
+    PRO:
+        Seleccionar todas las ocurrencias de la selección
+        ⇧ ⌘ L
+        Ctrl + Shift + L
+*/
+
+let NoMeBorres = ':)';
+let Borrame = ':(';
+
+NoMeBorres = '1';
+Borrame    = 'a';
+NoMeBorres = '1';
+Borrame    = 'a';
+
+
+// Resultado final (sin los comentarios claro.)
+
+// let NoMeBorres = ':)';
+
+// NoMeBorres = '1';
+// NoMeBorres = '1';
+```
+
 ### Deshacer y Rehacer                                                                                                          01:09
+
+Abrir archivo `08-deshacer-rehacer.ts`
+
+```
+/*
+    Objetivo:
+        Deshacer y rehacer el código
+§
+    Tips:
+        ⌘ Z
+        ⌘ ⇧ Z
+        Ctrl +Z
+        Ctrl + Shift + Z
+
+*/
+
+
+
+
+
+
+// Demo
+// function holaMundo() {
+//     return 'Saludos a todos!';
+// }
+
+
+
+```
+
 ### Zen mode                                                                                                                    01:59
+
+Abrir archivo `09-zen-mode.html`
+
+```
+<!-- 
+    Objetivo:
+        Cero distracciones
+        Ocultar Mostrar sidebar
+    
+    tips:
+        ⌘ B
+        Ctrl + B
+
+        ⌘ K Z
+        Ctrl + K Z
+ -->
+```
+
 ### Terminal integrada                                                                                                          02:30
+
+Abrir archivo `10-terminal.html`
+
+```
+<!-- 
+    Objetivo:
+        Ocultar Mostrar terminal
+    
+    tips:
+        ⌃ `
+        Ctrl + `
+ -->
+
+
+<p>
+    Ejecutar el comando
+    ng serve
+</p>
+```
+
 ### Emmet wrap y atajos personalizados                                                                                          03:51
+
+Abrir archivo `11-emmet-wrap.html`
+
+```
+<!-- 
+    Objetivo:
+        Utilizar emmet wrap
+        Crear atajo (shortcut) para el mismo
+    
+    tips:
+        ⇧ ⌘ P
+        Ctrl + SHIFT + P
+
+        Buscar: Wrap with abbreviation
+                debe de quedar el ng serve así
+                <code>ng serve</code>
+ -->
+
+
+<p>
+    Ejecutar el comando
+    ng serve
+</p>
+```
+
 ### Manejo de tabs                                                                                                              01:22
 
+Abrir archivo `12-chrome-tabs.html`
+
+```
+<!-- 
+    Objetivo:
+        Abrir, reabrir, cerrar tabs, cambair de tab
+    
+    tips:
+        ⌘ W      Cerrar tab  / Cerrar aplicación
+        ⌘ K ⌘ W  Cerrar todas
+        ⇧ ⌘ T    Reabrir anterior
+        ⌃ TAB    Cambiar de tab
+
+        Ctrl + W            Cerrar tab
+        Ctrl + K  Ctrl + W  Cerrar todas
+        Ctrl + Shift + T    Reabrir anterior
+        Ctrl + TAB          Cambiar de tab
+ -->
+
+ <h1>
+     Abramos muchos tabs para probar
+ </h1>
+```
+
 ## Multi Cursores y edición rápida                                                                                              23:13
+
 ### Introducción a la sección                                                                                                   01:18
+
+
 ### Clonar líneas - Copy line down                                                                                              02:14
+
+Abrir archivo `01-clonar-lineas.html`
+
+```
+<!-- 
+    Objetivo:
+        Clonar línea
+    
+    Tips:
+        * Puede cambiar, revisar los shortcuts
+
+        ⇧ ⌥ D
+        Shift + Alt + D
+
+    Pro: (Revisar shortcuts)
+        Copy line down
+        ⌘ K ⌘ S 
+        Ctrl + K Ctrl + S
+        
+-->
+
+<span>Hola</span>
+
+
+
+<!-- Objetivo -->
+
+<span>Hola</span>
+<span>Hola</span>
+<span>Hola</span>
+<span>Hola</span>
+<span>Hola</span>
+```
+
 ### Crear cursores arriba y abajo de la posición actual                                                                         02:22
+
+Abrir archivo `02-multi-cursor-basico.html`
+
+```
+<!-- 
+    Objetivo:
+        Crear múltiples cursores para editar 
+    
+    Tips:
+        ⇧ ⌥ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓
+       
+-->
+
+<!-- Desde aquí -->
+
+
+
+
+
+
+<!-- Hasta aquí -->
+
+
+
+<!-- Objetivo -->
+
+<li>Hola Mundo</li>
+<li>Hola Mundo</li>
+<li>Hola Mundo</li>
+<li>Hola Mundo</li>
+<li>Hola Mundo</li>
+<li>Hola Mundo</li>
+```
+
 ### Multi cursor - Copy                                                                                                         02:38
+
+Abrir archivo `03-multi-cursor-copy.html`
+
+```
+<!-- 
+    Objetivo:
+        Crear múltiples cursores
+        Añadir la clase de estilo igual a la contenida en el span.
+        Ver objetivo final
+    
+    Tips:
+        ⇧ ⌥ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓
+-->
+
+<span>amarillo</span>
+<span>rojo</span>
+<span>verde</span>
+<span>naranja</span>
+<span>morado</span>
+<span>negro</span>
+<span>blanco</span>
+
+
+<!-- Objetivo final -->
+<span class="amarillo">amarillo</span>
+<span class="rojo">rojo</span>
+<span class="verde">verde</span>
+<span class="naranja">naranja</span>
+<span class="morado">morado</span>
+<span class="negro">negro</span>
+<span class="blanco">blanco</span>
+```
+
 ### Multi cursor para formato                                                                                                   01:32
+
+Abrir archivo `04-multi-cursor-formato.ts`
+
+```
+/*
+    Objetivo:
+        Crear múltiples cursores
+        Dar el formato deseado
+
+    Tips:
+        ⇧ ⌥ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓
+*/
+
+const hulk = 'brouce banner';
+const Hawkeye = 'cinton francis';
+const ironman = 'tony stark';
+const spiderman = 'peter parker';
+const viudaNegra = 'natalia romanova';
+
+
+// Objetivo final (sin los comentarios)
+// const hulk       = 'brouce banner';
+// const Hawkeye    = 'cinton francis';
+// const ironman    = 'tony stark';
+// const spiderman  = 'peter parker';
+// const viudaNegra = 'natalia romanova';
+
+```
+
 ### Multi cursor - Lowercase y Uppercase                                                                                        03:10
+
+Abrir archivo `05-capitalizar.ts`
+
+```
+/*
+    Objetivo:
+        Crear múltiples cursores
+        Dar el formato deseado
+
+    Tips:
+        ⇧ ⌥ ↑ / ↓
+        ⌃ ⇧ U
+        ⌃ ⇧ L
+
+        Ctrl + Alt+ ↑ / ↓
+        Ctrl + Shift + U
+        Ctrl + Shift + L
+
+    Pro:
+        Mostrar la paleta de comandos
+        ⇧ ⌘ P, F1
+        Ctrl + Shift + P, F1
+*/
+
+function capitalizados() {
+
+    const hulk       = 'brouce banner';
+    const Hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudaNegra = 'natalia romanova';
+
+}
+
+function minusculas() {
+
+    const HULK       = 'brouce banner';
+    const HAWKEYE    = 'cinton francis';
+    const IRONMAN    = 'tony stark';
+    const SPIDERMAN  = 'peter parker';
+    const VIUDANEGRA = 'natalia romanova';
+
+}
+
+
+
+// Objetivo final (sin los comentarios)
+
+function capitalizadosDemo() {
+
+    const hulk       = 'Brouce Banner';
+    const Hawkeye    = 'Cinton Francis';
+    const ironman    = 'Tony Stark';
+    const spiderman  = 'Peter Parker';
+    const viudaNegra = 'Natalia Romanova';
+
+}
+
+function minusculasDemo() {
+
+    const hulk       = 'brouce banner';
+    const hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudanegra = 'natalia romanova';
+
+}
+```
+
 ### Múltiples cursores en posiciones específicas                                                                                04:05
+
+Abrir archivo `06-todas-ocurrencias.html`
+
+```
+<!-- 
+    Objetivo:
+        Crear múltiples cursores
+        Añadir la clase de estilo igual a la contenida en el span.
+        Ver objetivo final
+    
+    Tip:
+        Mantener ⌘ + Doble click
+        Mantener ⌘ + Seleccionar
+
+        Mantener Ctrl + Doble click
+        Mantener Ctrl + Seleccionar
+
+-->
+
+<span>amarillo</span>
+<p>rojo</p>
+<div-personalizado>verde</div-personalizado>
+<bold>naranja</bold>
+<otro-div-complejo>naranja-azul</otro-div-complejo>
+
+
+<!-- Objetivo final -->
+<span class="amarillo">amarillo</span>
+<p class="rojo">rojo</p>
+<div-personalizado class="verde">verde</div-personalizado>
+<bold class="naranja">naranja</bold>
+<otro-div-complejo class="naranja-azul">naranja-azul</otro-div-complejo>
+```
+
 ### Siguiente ocurrencia                                                                                                        02:12
+
+Abrir archivo `07-siguiente-ocurrencia.html`
+
+```
+<!-- 
+    Objetivo:
+        Crear múltiples cursores usando el "Next find match"
+    
+    Tip:
+        ⌘ + D
+        
+        Ctrl + D
+
+-->
+
+<span>Uno</span>
+<span>Dos</span>
+<span>Cuarenta y cinco</span>
+<span>Un millón, ciento cincuenta mil</span>
+
+
+<!-- Objetivo final -->
+<ul>
+    <li>Uno</li>
+    <li>Dos</li>
+    <li>Cuarenta y cinco</li>
+    <li>Un millón, ciento cincuenta mil</li>
+</ul>
+
+
+```
+
 ### Creación de un arreglo de días                                                                                              03:42
 
+Abrir archivo `09-arreglos.ts`
+
+```
+/*
+    Objetivo:
+        Crear múltiples cursores
+        Y usarlo para editar un arreglo de días de la semana
+    
+    Tips:
+        ⇧ ⌥ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓
+
+*/
+
+// Crear un arreglo con los días de la semana
+
+
+
+
+
+
+// Objetivo final
+
+const diasDemo = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo'];
+
+```
+
+
 ## Definiciones y Snippets                                                                                                      21:58
+
 ### Introducción a la sección                                                                                                   01:19
+
 ### Definiciones en un archivo                                                                                                  02:04
+
+Abrir archivo `01-clase-definiciones.ts`
+
+```
+/*
+    Objetivo:
+        Ver rápidamente las definiciones de la clase
+        También funciona con archivos HTML y otros
+
+    Tips:
+        ⌘ P => luego escribir la @
+        ⇧ ⌘ O
+
+        Ctrl + P => luego escribir la @
+        Ctrl + Shift = O
+
+        Se pueden agrupar si después de la @, se escriben :
+*/
+
+
+class SuperHeroe {
+
+    nombre: string;
+    poder: string;
+    edad: number;
+    pasatiempo: string;
+
+    // tslint:disable-next-line:variable-name
+    private _nombreSecreto: string;
+
+    constructor() { }
+
+    usarPoder() {}
+
+    volar() {}
+
+    correr() {}
+
+    caminar() {}
+
+    revivir() {}
+
+    // Sólo para demostración
+    // tslint:disable-next-line:member-ordering
+    nombre2: string;
+    // tslint:disable-next-line:member-ordering
+    poder2: string;
+    // tslint:disable-next-line:member-ordering
+    edad2: number;
+    // tslint:disable-next-line:member-ordering
+    pasatiempo3: string;
+
+    set nombreSecreto(nombre) {
+        this._nombreSecreto = nombre;
+    }
+
+    get nombreSecreto() {
+        return this._nombreSecreto;
+    }
+}
+```
+
 ### Ir a una línea                                                                                                              01:36
+
+Abrir archivo `02-ir-a-linea.css`
+
+```
+/*
+    Objetivo:
+        Manejar TODOS:
+
+    Tips:
+        ⌃ G
+        ⌘ P => luego escribir :
+
+        Ctrl + G
+        Ctrl + P => luego escribir la :
+
+    Tarea:
+        Borrar la clase en la línea 7798
+*/
+```
+
 ### Markdown view - live-preview                                                                                                03:31
+
+Abrir archivo `03-markdown.md`
+
+```
+Tips:
+
+command + P : Markdown Open Preview
+command + P : Markdown Open Preview to the side
+
+Ctrl + P : Markdown Open Preview
+Ctrl + P : Markdown Open Preview to the side
+```
+
 ### Replace Symbol                                                                                                              03:38
+
+Abrir archivo `04-replace-definition.ts`
+
+```
+import { SuperHeroe } from './extra/classes';
+
+/*
+    Objetivo:
+        Cambiar únicamente la refencia de SuperHeroe a Heroe
+        OJO!: Pero no reemplazar los strings
+
+    Tips:
+        Replace Symbol
+        F2
+*/
+
+
+const wolverine = new SuperHeroe();
+const ironman   = new SuperHeroe();
+const spiderman = new SuperHeroe();
+
+function saludar() {
+    return 'El SuperHeroe Wolverine es genial!';
+}
+
+function gritar() {
+    return 'El SuperHeroe en este string no se debe de cambiar';
+}
+```
+
 ### Snippets básicos                                                                                                            08:17
+
+Abrir archivo `01-console-log.ts`
+
+```
+// Ejemplo final
+console.log('hola mundo');
+```
+
 ### Snippet personalizado - tarea                                                                                               01:33
 
+Abrir archivo `02-clase-snippet.ts`
+
+```
+// Ejemplo final
+export class NuevoSuperHeroe {
+
+    constructor() {
+
+    }
+}
+```
+
 ## Extensiones                                                                                                                  20:22
+
 ### Introducción a la sección                                                                                                   01:06
+
 ### Paste JSON as Code                                                                                                          02:42
+
+Abrir archivo `01-json-to-ts.ts`
+
+```
+// Extensión Paste JSON as Code
+// https://pokeapi.co/
+```
+
 ### TODO Tree - TODO Highlight                                                                                                  05:05
+
+Abrir archivo `02-todos.ts`
+
+```
+// TODO Highlight
+// Todo Tree
+// TODO y FIXME
+```
+
 ### Bookmarks                                                                                                                   01:39
+
+Abrir archivo `03-bookmarks.ts`
+
+```
+// Bookmarks
+
+class Temporal {
+
+    constructor(parameters) {
+        
+    }
+}
+
+
+class OtraClase {
+    constructor(parameters) {
+        
+    }
+}
+```
+
 ### Material Icon Theme                                                                                                         01:04
+
+
 ### Material Theme                                                                                                              01:26
+
+Abrir archivo `04-material-theme.md`
+
+```
+# Material Theme
+
+No hay mucho que decir, pueda que te gusten, pueda que no.
+
+Material Theme
+```
+
 ### Live Server                                                                                                                 02:08
+
+Abrir archivo `05-live-serve.html`
+
+```
+```
+
 ### Color Highlight                                                                                                             01:19
+
+Abrir archivo `06-colors.ts`
+
+```
+// Color highlight
+
+const colores = ['#fafafa', '#7F4CCC', '#0075FF', '#FF5F45'];
+```
+
 ### Bracket Pair Colorizer 2                                                                                                    03:53
 
+Abrir archivo `07-colorizer.ts`
+
+```
+```
+
 ## Cierre del curso                                                                                                             02:12
+
 ### Todas mis extensiones hasta el momento                                                                                      00:11
+
+
+Tema que estoy usando:
+* [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) 
+Un tema completo, oscuro y minimalista inspirado en Monokai.
+
+Plugins
+* [AB HTML Formatter](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter) Esta herramienta formatea/reindentifica código HTML
+* [Activitus Bar]()
+* [Angular Snippets]()
+* [Angular Language Service]()
+* [Angular2-inline]()
+* [Awesome Flutter Snippets]()
+* [Auto Close Tag]()
+* [Bookmarks]()
+* [Bootstrap 4, FontAwesome 5]()
+* [Bracket Pair Colorizer 2]()
+* [Color Highlight]()
+* [Dart]()
+* [Flutter]()
+* [Gist]()
+* [HTML CSS Support]()
+* [ionic 4 Snippets]()
+* [JavaScript (ES6)]()
+* [jshint]()
+* [Material Icon Theme]()
+* [Paste JSON as Code]()
+* [Prettier - Code Formatter]()
+* [PWA Tools]()
+* [Terminal]()
+* [TODO Highlight]()
+* [Todo Tree]()
+* [TSLint]()
+* [TypeScript Importer]()
+
 ### Más sobre mis cursos                                                                                                        00:33
+
 ### Fin del curso                                                                                                               01:27
