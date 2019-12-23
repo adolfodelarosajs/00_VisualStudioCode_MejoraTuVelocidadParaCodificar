@@ -229,7 +229,10 @@ Abrir el archivo `03-comentarios.ts`
     Tips:
         ⌘ /
         
-        Ctrl + \   ===>    Ctrl+K Ctrl+C / Ctrl+K Ctrl+U
+        Ctrl + /                        No me va
+        Ctrl+K Ctrl+C                   Comenta con //
+        Ctrl+K Ctrl+U                   Descomenta con //
+        Shift + Alt + A                 Comenta/Descomenta multílineas
 */
 
 const a = 10;
