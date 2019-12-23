@@ -382,18 +382,10 @@ Abrir archivo `08-deshacer-rehacer.ts`
 
 */
 
-
-
-
-
-
 // Demo
 // function holaMundo() {
 //     return 'Saludos a todos!';
 // }
-
-
-
 ```
 
 ### Zen mode                                                                                                                    01:59
@@ -498,6 +490,7 @@ Abrir archivo `12-chrome-tabs.html`
 
 ### Introducción a la sección                                                                                                   01:18
 
+:+1:
 
 ### Clonar líneas - Copy line down                                                                                              02:14
 
