@@ -801,6 +801,8 @@ const diasDemo = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado
 
 ### Introducción a la sección                                                                                                   01:19
 
+:+1:
+
 ### Definiciones en un archivo                                                                                                  02:04
 
 Abrir archivo `01-clase-definiciones.ts`
@@ -956,6 +958,8 @@ export class NuevoSuperHeroe {
 ## Extensiones                                                                                                                  20:22
 
 ### Introducción a la sección                                                                                                   01:06
+
+:+1:
 
 ### Paste JSON as Code                                                                                                          02:42
 
