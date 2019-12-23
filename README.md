@@ -505,7 +505,7 @@ Abrir archivo `01-clonar-lineas.html`
         * Puede cambiar, revisar los shortcuts
 
         ⇧ ⌥ D
-        Shift + Alt + D
+        Shift + Alt ↑ / ↓
 
     Pro: (Revisar shortcuts)
         Copy line down
