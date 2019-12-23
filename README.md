@@ -451,6 +451,7 @@ Abrir archivo `11-emmet-wrap.html`
         Ctrl + SHIFT + P
 
         Buscar: Wrap with abbreviation
+                seleccionarla y escribir code,
                 debe de quedar el ng serve así
                 <code>ng serve</code>
  -->
@@ -461,6 +462,11 @@ Abrir archivo `11-emmet-wrap.html`
     ng serve
 </p>
 ```
+Podríamos usar lo anterior siempre o para simplificarlo podemos crear un ShortCur.
+
+#### Crear ShortCut
+
+Abrimos `File / Preferences / Keyboard ShortCuts ` o usamos `Ctrl+K Ctrl+S` para abrir todos los ShortCuts que tenemos definidos, podemos buscar lo que queramos para ver si ya existe o si una combinación de teclas ya se usa. En este caso buscamos `Wrap with abbreviation` y podemos observar que no tiene ShortCut, si le damos doble clic nos pide la combinación de teclas que queremos usar para esta opción, debemos dar una que no exista, en este caso escribimos `Ctrl + Alt + w`. Una vez hecho esto ya podemos usar esta combinación, marcamos el texto que deseamos envolver, pulsamos `Ctrl + Alt + w` y nos pide directamente la etiqueta para envolver escribimos `code` y `Enter` y listo el texto queda envuelto en dicha etiqueta.
 
 ### Manejo de tabs                                                                                                              01:22
 
